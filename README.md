@@ -2,5 +2,5 @@
 Created a photoraphy webpage
 
 
-#Languages Used to make:
+#Languages_Used_to_make:
 HTML and CSS
